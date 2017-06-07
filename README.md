@@ -1,2 +1,2 @@
-# plan-visualizer
-Plan visualizer for human-robot collaborative tasks. 
+# Plan visualizer for NRI Authoring Environment
+
